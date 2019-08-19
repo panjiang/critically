@@ -12,7 +12,7 @@ Compared to [`critical`](https://github.com/addyosmani/critical) this library:
 ## Install
 
 ```sh
-npm install --save critically
+npm install --save pj-critically
 ```
 
 ## API
